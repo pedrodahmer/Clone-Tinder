@@ -4,7 +4,11 @@ Um clone simples do aplicativo Tinder usando a stack MERN(MongoDB, Express, Reac
 
 ## Escopo:
 
-A aplicação é simples e apenas permite que seja possível visualizar perfis do tinder e realizar o "swipe" para direita e para a esquerda
+A aplicação é simples e apenas permite que seja possível visualizar perfis do tinder e realizar o "swipe" para direita e para a esquerda.
+
+Foi utilizado uma biblioteca do React chamada React-Tinder-Cards, para criar os cartões de usuário
+
+Screenshots da interface estão disponíveis em: https://imgur.com/a/fd0mM1C
 
 ## Ferramentas Utilizadas
 
