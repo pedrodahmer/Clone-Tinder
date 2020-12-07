@@ -6,7 +6,7 @@ import Routes from './routes'
 
 const App = express();
 const Port = process.env.PORT || 8001;
-const Connection_url = 'mongodb+srv://admin:gw28HCmbSNCCuRpY@clusterclonetinder.bhqsx.mongodb.net/tinderclonedb?retryWrites=true&w=majority'
+const Connection_url = 'YOUR MONGODB DATABASE URL'
 
 mongoose.connect(Connection_url, {
     useNewUrlParser: true,
